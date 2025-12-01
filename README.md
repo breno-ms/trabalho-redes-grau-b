@@ -27,3 +27,5 @@ Você pode instalar as dependências necessárias utilizando o comando:
 
 ```bash
 pip install numpy pandas matplotlib
+
+Link para o vídeo no YouTube: https://www.youtube.com/watch?v=B0ml8O4nIgQ
